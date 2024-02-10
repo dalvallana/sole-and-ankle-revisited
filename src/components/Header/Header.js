@@ -67,7 +67,7 @@ const MainHeader = styled.div`
 
 const Nav = styled.nav`
   display: flex;
-  gap: clamp(1rem, 10vw, 3rem);
+  gap: clamp(1rem, 10vw - 4rem, 3rem);
   margin: 0px 48px;
   overflow: auto;
 
